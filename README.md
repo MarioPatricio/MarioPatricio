@@ -1,4 +1,4 @@
-## Hello, World! I'm Mário Patricio 👋 Olá, Mundo! Eu sou Mário Patricio!
+## Hello, World! I'm Mário Patricio! 👋 Olá, Mundo! Eu sou Mário Patricio!
 
 **MarioPatricio/MarioPatricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
